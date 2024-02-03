@@ -1,0 +1,56 @@
+h1 {
+    font-weight: 700;
+}
+
+.flat-image {
+    object-position: right;
+    object-fit: cover;
+}
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+.fw-extraBlack {
+    font-weight: 900;
+}
+
+.shadow {
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.25) !important;
+}
+
+.btn.btn-active-light-success.btn-outline:not(.btn-outline-default) {
+    border-color: #447714 !important;
+}
+
+.btn-outline-success {
+    color: #447714 !important;
+}
+
+#kt_header_nav .menu-state-title-primary .menu-item.hover:not(.here)>.menu-link:not(.disabled):not(.active):not(.here) .menu-title,
+#kt_header_nav .menu-state-title-primary .menu-item:not(.here) .menu-link:hover:not(.disabled):not(.active):not(.here) .menu-title {
+    color: #50cd89;
+    font-weight: 600;
+}
+
+
+#kt_header_nav .menu-state-bg .menu-item.hover:not(.here)>.menu-link:not(.disabled):not(.active):not(.here),
+#kt_header_nav .menu-state-bg .menu-item:not(.here) .menu-link:hover:not(.disabled):not(.active):not(.here) {
+    background-color: #e8fff3!important;
+}
+
+.price-card {
+    height: min-content;
+}
+
+#password_meter {
+    display: flex;
+}
+
+div {
+    transition: scrollbar-color ease .5s;
+}
+
+div:hover {
+    scrollbar-color: rgba(11, 183, 131, 0.5) transparent !important;
+}
