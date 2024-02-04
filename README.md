@@ -76,7 +76,7 @@ Al obtener los requerimientos que debía satisfacer la página web, opté por di
 
 ## CTA
 Opté por usar únicamente dos llamadas a la acción, una de ellas es la llamada a la acción principal cuyo propósito es convertir los visitantes de la página web en nuevos clientes. La segunda llamada a la acción queda en segundo plano, pero complementa a la perfección la CTA principal, generando en los usuarios una confianza extra.
-Opté por usar únicamente dos CTA para la landing page, cada uno con el siguiente propósito:
+Cada uno tiene el siguiente propósito:
 
 1. **CTA Principal**: Tiene como objetivo convertir a los visitantes de la página web en nuevos clientes. Su pequeño, claro y directo mensaje impulsa la acción de contratar una tarifa energética. Elementos:
     *  Botón primario con el texto: "Comienza Ahora"
